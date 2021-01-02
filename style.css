@@ -91,11 +91,6 @@ progress::-moz-progress-bar {
     color: #3fb6b2;
     background: #efefef;
 }
-iframe, audio {
-    display: block;
-    margin: 0 auto;
-    border: 3px solid #3fb6b2;
-}
 hr {
     border: 0;
     height: 1px;
